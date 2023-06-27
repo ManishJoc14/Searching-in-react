@@ -1,0 +1,8 @@
+table{
+    margin-top: 20px;
+}
+th,td{
+    width:200px;
+    padding: 3px 0;
+    text-align:start;
+}
